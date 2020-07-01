@@ -34,6 +34,7 @@ INSTALLED_APPS = [
     'django.contrib.admin',
     'leads.apps.LeadsConfig',
     'rest_framework',
+    'frontend.apps.FrontendConfig',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
