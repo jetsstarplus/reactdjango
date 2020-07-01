@@ -1,0 +1,30 @@
+{
+  "name": "lawfirm",
+  "version": "1.0.0",
+  "description": "This is a test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jetsstarplus/reactdjango.git"
+  },
+  "keywords": [
+    "law",
+    "firm",
+    "react",
+    "django",
+    "python"
+  ],
+  "author": "Okinyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jetsstarplus/reactdjango/issues"
+  },
+  "homepage": "https://github.com/jetsstarplus/reactdjango#readme",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
